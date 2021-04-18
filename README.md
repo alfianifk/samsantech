@@ -1,4 +1,4 @@
 # samsantech
 
 schedule
-- Membuat Jumbotron
+- add develop
